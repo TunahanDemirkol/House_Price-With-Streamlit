@@ -9,7 +9,7 @@
 - XGBoost Regression Model is created and applied succesfully.
 - Model deployed on Streamlit and visualized for 3rd party user usage.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_blue_white.svg)](https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py)
 
 ## Project Developers
 - Tunahan DEMİRKOL
